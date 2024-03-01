@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Home
+permalink: /
 ---
+
+# Welcome to HomemadeAI
+
+Here at HomemadeAI, our mission is to [Your Mission]. We specialize in [Brief Description of Products/Services].
