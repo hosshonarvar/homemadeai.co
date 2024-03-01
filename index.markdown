@@ -12,6 +12,6 @@ Our mission is to "make AI homemade" by customizing AI for enterprises, crafting
 
 By focusing on the bespoke adaptation of AI, we empower your business to not just employ AI, but to excel with it—transforming complex challenges into strategic assets. Discover how HomeMadeAI can revolutionize your approach to AI, making it a perfect fit for your enterprise’s unique needs.
 
-<a href="{{ site.baseurl }}/products/">Explore Our Solutions</a> | [Get in Touch](/contact/)
+<a href="{{ site.baseurl }}/products/">Explore Our Solutions</a> | <a href="{{ site.baseurl }}/about/">Get in Touch</a>
 
 
