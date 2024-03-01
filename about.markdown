@@ -4,19 +4,15 @@ title: About
 permalink: /about/
 ---
 
-## Meet Our Team
+## Meet Our Founder
 
-### Hoss Honarvar, Founder of HomeMadeAI
-
-![Hoss Honarvar](/path-to-your-image.jpg) <!-- Update with the actual path to your image -->
-
-At the heart of HomeMadeAI is our founder, Hoss Honarvar, whose journey in the realm of artificial intelligence has been both diverse and impactful. With over five years of dedicated experience in the AI sector, particularly within the insurance and healthcare industries, Hoss has been at the forefront of integrating advanced AI solutions to solve real-world problems.
+HomeMadeAI was founded by Hoss Honarvar, whose journey in the realm of artificial intelligence has been both diverse and impactful. With over five years of dedicated experience in the AI sector, particularly within the insurance and healthcare industries, Hoss has been at the forefront of integrating advanced AI solutions to solve real-world problems.
 
 His expertise spans the technological and research domains, having collaborated with top AI practitioners and researchers to bring innovative ideas to life. Before venturing into AI, Hoss laid a solid foundation in the sciences, earning his PhD in Materials Physics from the University of Colorado Boulder. There, he worked alongside pioneers in the field, contributing to over 10 high-impact scientific publications that continue to influence the scientific community today.
 
 Hoss's transition from a distinguished academic career to leading initiatives in AI underscores his passion for applying deep scientific knowledge to practical challenges. His vision for HomeMadeAI is rooted in a commitment to customizing AI technologies for enterprises, ensuring they are accessible, applicable, and transformative.
 
-You can learn more about Hoss's past scientific work and contributions [here](link-to-my-website). <!-- Update with the actual link to your website -->
+You can learn more about Hoss's past scientific work and contributions [here](https://sites.google.com/site/hosshonarvar?pli=1). <!-- Update with the actual link to your website -->
 
 ---
 
