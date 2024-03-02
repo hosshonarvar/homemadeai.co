@@ -21,13 +21,13 @@
 title: HomemadeAI
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  HomeMadeAI specializes in customizing AI solutions for enterprises, bridging the gap between advanced AI technologies and business-specific challenges. 
+  HomeMadeAI aims to transform businesses by making AI more accessible, adaptable, and impactful. 
+  Dive into the future of AI with HomeMadeAI, where cutting-edge technology meets bespoke business needs.
 baseurl: "/homemadeai.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: hosshonarvar
+github_username:  hosshonarvar
 
 # Build settings
 theme: minima
