@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: default
 title: Products
 permalink: /products/
 ---
-
-# Products
 
 At HomeMadeAI, our suite of products embodies the essence of innovation and intelligence. Each of our offerings begins with an iconic Latin "I" with a dot above (İ), symbolizing intelligence at the core of our solutions. Our goal is to harness the power of artificial intelligence to simplify complex processes, enhance decision-making, and unlock new opportunities for businesses.
 

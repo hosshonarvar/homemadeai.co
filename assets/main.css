@@ -1,0 +1,136 @@
+/* Global Styles */
+body {
+    background-color: #333;
+    /* Dark background */
+    color: #f8f8f8;
+    /* Light text */
+    line-height: 1.6;
+    /* Improved line spacing */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Modern font */
+}
+
+a {
+    color: #1e90ff;
+    /* A bright, visible color for links */
+    text-decoration: none;
+    /* No underline */
+}
+
+a:hover {
+    text-decoration: underline;
+    /* Underline on hover for usability */
+}
+
+img {
+    max-width: 100%;
+    /* Responsive images */
+    height: auto;
+}
+
+/* Wrapper Styles */
+.wrapper {
+    max-width: 800px;
+    /* Adjust the max-width as needed */
+    margin: 0 auto;
+    /* Centers the wrapper */
+    padding: 40px 20px;
+    /* Vertical and horizontal padding */
+    background-color: #1c1c1c;
+    /* Slightly lighter background for the content area */
+    border-radius: 8px;
+    /* Optional: rounded corners for the wrapper */
+}
+
+@media (max-width: 768px) {
+    .wrapper {
+        padding: 0 20px;
+        /* Smaller padding on mobile devices */
+    }
+}
+
+/* Header Styles */
+.site-header {
+    background-color: #222;
+    /* Dark background for the header */
+    padding: 20px 0;
+    /* Padding above and below the header content */
+}
+
+.site-header .wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.site-logo img {
+    margin-right: 20px;
+    /* Adjust the space between the logo and the title */
+    height: 50px;
+    /* Adjust logo size as needed */
+}
+
+.site-title {
+    margin: 0;
+    /* Removes default margin */
+    color: #fff;
+    /* Light text for the site title */
+}
+
+/* Footer Styles */
+.site-footer {
+    text-align: center;
+    /* Center-align the text for all footer content */
+    background-color: #222;
+    /* Dark background for the footer */
+    padding: 20px 0;
+    /* Padding above and below the footer content */
+}
+
+.site-footer .wrapper {
+    display: flex;
+    flex-direction: column;
+    /* Stacks items vertically */
+    align-items: center;
+    /* Centers items */
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    /* Allows the list to wrap on small screens */
+    justify-content: center;
+    /* Centers the links */
+    gap: 20px;
+    /* Adds space between links */
+}
+
+.footer-links li {
+    margin: 0;
+    /* Removes margin from list items */
+}
+
+.footer-links,
+.footer-links a {
+    color: #f8f8f8;
+    /* Light text for footer links */
+}
+
+/* Heading Styles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #f8f8f8;
+    /* Light text for headings */
+}
+
+h1 {
+    font-size: 2em;
+    /* Larger font-size for h1 */
+}
