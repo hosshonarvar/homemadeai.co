@@ -16,5 +16,5 @@ Introducing **İQ** – your gateway to seamless interaction with databases. İQ
 
 İQ is more than a tool – it's your intelligent partner in navigating the data landscape. By simplifying data interactions, İQ unlocks the potential of your data assets, making intelligence accessible to everyone in your organization.
 
-[Contact us](/contact/) to learn more about İQ and how HomeMadeAI can transform your approach to data.
+<a href="{{ site.baseurl }}/about/">Get in Touch</a> to learn more about İQ and how HomeMadeAI can transform your approach to data.
 
