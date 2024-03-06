@@ -53,16 +53,16 @@ img {
     /* Adjust this value to scale the logo */
     width: auto;
     /* Maintains the aspect ratio */
-    margin-right: 50px;
+    margin-right: 40px;
     /* Increase the space between the logo and the title */
 }
 
-
 .site-title {
     flex-grow: 1;
-    /* Allows the title to take up remaining space, pushing nav to the end */
     color: #fff;
     margin: 0;
+    font-size: 0.9em;
+    /* Example size, adjust as needed */
 }
 
 /* Adjusts navigation to appear as tabs aligned to the left */

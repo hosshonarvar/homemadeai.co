@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Welcome to HomeMadeAI: Tailoring AI Solutions for Enterprises
+## Welcome to HomeMadeAI: Tailoring AI Solutions for Enterprises
 
 As artificial intelligence (AI) continues to evolve, becoming increasingly capable and general, enterprises encounter unique challenges in leveraging this technology. Operational complexities, infrastructural demands, and the need for specialized applications often stand in the way. At HomeMadeAI, we recognize that the future of AI lies not only in its broad capabilities but in its precision and adaptability to specific business contexts.
 
