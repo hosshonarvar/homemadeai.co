@@ -23,7 +23,7 @@ email: info@homemadeai.co
 description: >- # this means to ignore newlines until "baseurl:"
   Making AI homemade! 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://homemadeai.co" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://homemadeai.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HonarvarHoss
 github_username:  hosshonarvar
 
