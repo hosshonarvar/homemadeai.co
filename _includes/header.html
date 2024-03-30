@@ -10,20 +10,6 @@
 
         <!-- Navigation -->
         <nav class="site-nav">
-            <!-- Responsive menu trigger -->
-            <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-            <label for="nav-trigger">
-                <span class="menu-icon">
-                    <!-- Consider adding an SVG or character for the menu icon here -->
-                </span>
-            </label>
-
-            <!-- Navigation links -->
-            <div class="trigger">
-                {% for page in site.header_pages %}
-                <a class="page-link" href="{{ page | relative_url }}">{{ page.title }}</a>
-                {% endfor %}
-            </div>
             <ul>
                 <li><a href="{{ '/products/' | relative_url }}">Products</a></li>
                 <li><a href="{{ '/about/' | relative_url }}">About</a></li>

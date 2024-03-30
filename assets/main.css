@@ -165,3 +165,14 @@ h1 {
     display: none;
     /* Ensures the checkbox is not visible */
 }
+
+/* Add this to your CSS file */
+.testimonial-box {
+    color: black;
+    /* Ensures text is visible */
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    /* Adds space between boxes */
+}
