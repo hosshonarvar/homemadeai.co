@@ -25,6 +25,10 @@ Introducing <span style="font-family: Times New Roman, serif;">İ</span>Query �
     <strong>Andrew Noble, PhD, Director of Data Science at a Fortune-500 Healthcare Company</strong>: "Right now, every Healthcare data company is racing for a GenAI Copilot that will enable their Data Engineers to build Data Products 50% faster.  Off-the-shelf Copilots are useless because they are not specialized to the Healthcare company’s proprietary database design and would not comply with security standards.  HomeMadeAI’s iQuery is the first end-to-end solution - launched by an industry expert with a deep, granular understanding of Healthcare data and how to accelerate Healthcare Data Engineering workflows."
 </div>
 
+<div class="testimonial-box">
+    <strong>Mehrzad Malmirchegini, PhD, Machine Learning and Data Scientist at Apple</strong>: "IQuery is reshaping data analytics by deeply connecting relational databases with Large Language Models (LLMs). This integration allows any organization to tailor LLMs to their specific data, transforming complex database queries into straightforward conversations. I'm particularly impressed by the platform's capability for the fine-tuning of LLMs and collaborative features, allowing team members, regardless of their technical background, to easily engage with data and extract valuable insights."
+</div>
+
 ---
 
 ### More to Come
