@@ -35,6 +35,6 @@ Introducing <span style="font-family: Times New Roman, serif;">İ</span>Query �
 
 ---
 
-### More to Come
+## More to Come
 
 Stay tuned for more exciting product announcements as we continue to expand our suite of AI solutions. Be sure to check back often for updates, or [contact us]( {{ site.baseurl }}/contact/ ) for the latest on what’s coming next from HomeMadeAI.
