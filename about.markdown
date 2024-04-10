@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Meet Our Founder
+# Meet Our Founder
 
 HomeMadeAI was founded by Hoss Honarvar, whose journey in AI has been both diverse and impactful. With over five years of dedicated experience in the AI sector, particularly within the insurance and healthcare industries, Hoss has been integrating advanced AI solutions to solve real-world problems.
 

@@ -4,12 +4,12 @@ title: Products
 permalink: /products/
 ---
 
-## Products
+# Products
 At HomeMadeAI, our suite of products embodies the essence of innovation and intelligence. Each of our offerings begins with an iconic <span style="font-family: Times New Roman, serif;">İ</span>, symbolizing intelligence at the core of our solutions. Our goal is to harness the power of AI to simplify complex processes, enhance decision-making, and unlock new opportunities for businesses.
 
 ---
 
-### <span style="font-family: Times New Roman, serif;">İ</span>Query
+## <span style="font-family: Times New Roman, serif;">İ</span>Query
 
 Introducing <span style="font-family: Times New Roman, serif;">İ</span>Query – your gateway to seamless interaction with databases. <span style="font-family: Times New Roman, serif;">İ</span>Query is not just a product; it's an intelligent solution designed to bridge the gap between your data and actionable insights. With <span style="font-family: Times New Roman, serif;">İ</span>Query, you can communicate with your databases in text, making data queries and analysis as simple as asking a question. Whether you're a data scientist, a business analyst, or someone who needs quick access to data insights, <span style="font-family: Times New Roman, serif;">İ</span>Query empowers you to:
 
