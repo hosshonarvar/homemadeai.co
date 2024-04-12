@@ -57,13 +57,18 @@ img {
     /* Increase the space between the logo and the title */
 }
 
+/* Site Title with Shiny Gradient */
 .site-title {
-    flex-grow: 1;
+    font-size: 1em; /* Adjust to match your design */
     color: #fff;
     margin: 0;
-    font-size: 1.0em;
-    /* Example size, adjust as needed */
+    /* Gradient effect */
+    background: -webkit-linear-gradient(45deg, #259c60, #a7dac1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
 }
+
 
 /* Adjusts navigation to appear as tabs aligned to the left */
 .site-nav {
@@ -168,11 +173,10 @@ h1 {
 
 /* Add this to your CSS file */
 .testimonial-box {
-    color: black;
-    /* Ensures text is visible */
-    background-color: #f0f8ff;
+    color: black; /* Ensures text is visible */
+    background-image: linear-gradient(to right, #cff5e2, #88d1ae); /* Gradient from light green to light blue */
     padding: 20px;
     border-radius: 10px;
-    margin-bottom: 20px;
-    /* Adds space between boxes */
+    margin-bottom: 20px; /* Adds space between boxes */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Optional: adds a subtle shadow for depth */
 }
